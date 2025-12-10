@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30C04F&width=435&lines=Web+Tasarım+Öğrencisi;Akıncılar+Grubu+Proje+Yöneticisi;HTML+%7C+CSS+%7C+Python+%7C+C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30C04F&width=435&lines=Web+Tasarım+Öğrencisi;Afyon kocatepe üniversitesi Yönetim bilişim sistemleri + web tasarım + c + python;HTML+%7C+CSS+%7C+Python+%7C+C" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -41,15 +41,6 @@
 | **[Web_proje_akincilar](https://github.com/yunusayyldz/Web_proje_akincilar)** | Sanal bahis bağımlılığı farkındalık projesi. | HTML |
 | **[Buraya Repo Adı Gelecek](https://github.com/yunusayyldz)** | Proje eklendikçe burayı doldurabilirsiniz. | Python |
 | **[Buraya Repo Adı Gelecek](https://github.com/yunusayyldz)** | Proje eklendikçe burayı doldurabilirsiniz. | C |
-
-<br>
-
-### 📈 İstatistikler
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunusayyldz&show_icons=true&theme=dark&hide_border=true&locale=tr" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusayyldz&layout=compact&theme=dark&hide_border=true&locale=tr" width="48%" />
-</div>
 
 <br>
 
