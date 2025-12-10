@@ -53,6 +53,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github.com/yunusayyldz/yunusayyldz/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rose-omer/rose-omer/output/github-contribution-grid-snake.svg">
+</picture>
