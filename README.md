@@ -39,6 +39,18 @@
 
   <br><br>
 
-  <img src="stardew.gif" width="100%" alt="Stardew Valley"/>
+  <img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="100%" alt="Stardew Valley Pixel Art"/>
+
+</div>
+
+<br>
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=yunusayyldz&label=Profil+Ziyaretçisi&color=0e75b6&style=for-the-badge" alt="Ziyaretçi Sayacı" />
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer" width="100%"/>
 
 </div>
