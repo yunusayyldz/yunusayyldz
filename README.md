@@ -1,9 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=250&section=header&text=Yunus%20Ayyıldız&fontSize=70&fontAlign=50&animation=fadeIn)
 
 <div align="center">
+  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+
+  <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30C04F&width=435&lines=Web+Tasarım+Öğrencisi;Akıncılar+Grubu+Proje+Yöneticisi;HTML+%7C+CSS+%7C+Python+%7C+C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30C04F&width=435&lines=Yönetim+Bilişim+Sistemleri;HTML+%7C+CSS+%7C+Python+%7C+C" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -16,14 +20,7 @@
 
 <hr>
 
-### 🏆 Başarımlarım (Trophies)
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yunusayyldz&theme=flat&no-frame=true&margin-w=10" />
-</div>
-
-<br>
-
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Kullandığım Teknolojiler (Mevcut)
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
@@ -34,20 +31,6 @@
 
 <br>
 
-### 🚀 Öne Çıkan Repolarım
-
-| Proje Adı | Açıklama | Dil |
-| :--- | :--- | :--- |
-| **[Web_proje_akincilar](https://github.com/yunusayyldz/Web_proje_akincilar)** | Sanal bahis bağımlılığı farkındalık projesi. | HTML |
-| **[Buraya Repo Adı Gelecek](https://github.com/yunusayyldz)** | Proje eklendikçe burayı doldurabilirsiniz. | Python |
-| **[Buraya Repo Adı Gelecek](https://github.com/yunusayyldz)** | Proje eklendikçe burayı doldurabilirsiniz. | C |
-
-<br>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yunusayyldz/yunusayyldz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yunusayyldz/yunusayyldz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yunusayyldz/yunusayyldz/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/216658245-873e9334-0338-4b1e-a42d-c200c009f260.gif" width="100%"/>
 </div>
