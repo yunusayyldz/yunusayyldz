@@ -1,33 +1,8 @@
-# yunusayyldz / README.md
-
-## yunusayyldz
-- main
-- Go to file
-- github
-- README.md
-- copy_384CE1B2-0889-4824-B5...
-
----
-
-**Preview**  
-Code | Blame  
-
----
-
-**Yunus Ayyildiz**
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Yunus%20Ayyıldız&fontSize=70&fontAlign=50&animation=fadeIn)
 
 <div align="center">
   
-  <!-- SEÇENEK 1: HIZLI ARAÇ GIF'i -->
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="600" height="300"/>
-  
-  <!-- SEÇENEK 2: TEKNOLOJİ + ARAÇ KARIŞIMI -->
-  <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/> -->
-  
-  <!-- SEÇENEK 3: FÜTÜRİSTİK ARAÇ -->
-  <!-- <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" height="300"/> -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 
   <br><br>
 
@@ -64,29 +39,18 @@ Code | Blame
 
   <br><br>
 
-  <!-- ARAÇ EDİTİ BÖLÜMÜ -->
-  <div align="center">
-    <h3>🚗 Kodlama Yolculuğum</h3>
-    
-    <!-- SEÇENEK A: ARAÇ ANİMASYONU -->
-    <img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="500" height="250"/>
-    
-    <!-- SEÇENEK B: RACE TRACK ANİMASYONU -->
-    <!-- <img src="https://media.giphy.com/media/xT0GqH01ZyKwd3aT3G/giphy.gif" width="500" height="250"/> -->
-    
-    <!-- SEÇENEK C: SPORT ARAÇ -->
-    <!-- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" height="250"/> -->
-    
-    <br><br>
-    <p><em>Hızla gelişen teknoloji dünyasında, her gün yeni şeyler öğreniyorum! ⚡</em></p>
-  </div>
+  <img src="https://media.tenor.com/bK1rcWf4t4AAAAAC/initial-d-ae86.gif" width="100%" alt="Initial D Drift"/>
 
 </div>
 
 <br>
 
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=yunusayyldz&label=Profil+Ziyaretçisi&color=0e75b6&style=for-the-badge" alt="Ziyaretçi Sayacı" />
+
   <br><br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer" width="100%"/>
+
 </div>
