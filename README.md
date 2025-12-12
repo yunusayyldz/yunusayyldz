@@ -20,7 +20,14 @@ Code | Blame
 
 <div align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <!-- SEÇENEK 1: HIZLI ARAÇ GIF'i -->
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="600" height="300"/>
+  
+  <!-- SEÇENEK 2: TEKNOLOJİ + ARAÇ KARIŞIMI -->
+  <!-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/> -->
+  
+  <!-- SEÇENEK 3: FÜTÜRİSTİK ARAÇ -->
+  <!-- <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="600" height="300"/> -->
 
   <br><br>
 
@@ -57,12 +64,21 @@ Code | Blame
 
   <br><br>
 
-  <!-- DÜZELTİLMİŞ VIDEO KODU -->
+  <!-- ARAÇ EDİTİ BÖLÜMÜ -->
   <div align="center">
-    <video width="85%" controls>
-      <source src="https://github.com/yunusayyldz/copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov" type="video/mp4">
-      Tarayıcınız video etiketini desteklemiyor. Lütfen videoyu doğrudan <a href="https://github.com/yunusayyldz/copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov">buradan</a> indirin.
-    </video>
+    <h3>🚗 Kodlama Yolculuğum</h3>
+    
+    <!-- SEÇENEK A: ARAÇ ANİMASYONU -->
+    <img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="500" height="250"/>
+    
+    <!-- SEÇENEK B: RACE TRACK ANİMASYONU -->
+    <!-- <img src="https://media.giphy.com/media/xT0GqH01ZyKwd3aT3G/giphy.gif" width="500" height="250"/> -->
+    
+    <!-- SEÇENEK C: SPORT ARAÇ -->
+    <!-- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" height="250"/> -->
+    
+    <br><br>
+    <p><em>Hızla gelişen teknoloji dünyasında, her gün yeni şeyler öğreniyorum! ⚡</em></p>
   </div>
 
 </div>
