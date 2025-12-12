@@ -39,7 +39,11 @@
 
   <br><br>
 
-  copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov
+<div align="center">
+  <video src="https://github.com/yunusayyldz/yunusayyldz/copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov" controls="controls" style="max-width: 100%;">
+  </video>
+</div>
+
 
 </div>
 
