@@ -1,3 +1,21 @@
+# yunusayyldz / README.md
+
+## yunusayyldz
+- main
+- Go to file
+- github
+- README.md
+- copy_384CE1B2-0889-4824-B5...
+
+---
+
+**Preview**  
+Code | Blame  
+
+---
+
+**Yunus Ayyildiz**
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Yunus%20Ayyıldız&fontSize=70&fontAlign=50&animation=fadeIn)
 
 <div align="center">
@@ -39,11 +57,13 @@
 
   <br><br>
 
-<div align="center">
-  <video src="https://github.com/yunusayyldz/copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov" controls="controls" style="max-width: 100%;">
-  </video>
-</div>
-
+  <!-- DÜZELTİLMİŞ VIDEO KODU -->
+  <div align="center">
+    <video width="85%" controls>
+      <source src="https://github.com/yunusayyldz/copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov" type="video/mp4">
+      Tarayıcınız video etiketini desteklemiyor. Lütfen videoyu doğrudan <a href="https://github.com/yunusayyldz/copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov">buradan</a> indirin.
+    </video>
+  </div>
 
 </div>
 
