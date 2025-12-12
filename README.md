@@ -39,7 +39,7 @@
 
   <br><br>
 
-  <img src="https://media.giphy.com/media/XvOxI6L77G2m4/giphy.gif" width="100%" alt="Initial D AE86 Drift"/>
+  <img src="https://media.giphy.com/media/3l1JL5jY4U8lq/giphy.gif" width="100%" alt="Initial D AE86 Drift"/>
 
 </div>
 
