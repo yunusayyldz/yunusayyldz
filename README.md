@@ -20,7 +20,7 @@
 
 <hr>
 
-### 🛠️ Kullandığım Teknolojiler (Mevcut)
+### 🛠️ Kullandığım Teknolojiler
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" />
@@ -32,5 +32,13 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/97/7c/02/977c02733c99721656460504011d7606.gif" width="100%" alt="Stardew Valley Pixel Art"/>
+
+  <a href="https://www.linkedin.com/in/yunus-ayy%C4%B1ld%C4%B1z-80527a2b9">
+    <img src="https://img.shields.io/badge/LinkedIn-Profilime_Git-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <br><br>
+
+  <img src="https://i.pinimg.com/originals/1e/8a/2e/1e8a2e49ae510712791443588dfd1d2b.gif" width="100%" alt="Stardew Valley Pixel Art"/>
+
 </div>
