@@ -39,12 +39,7 @@
 
   <br><br>
 
-  <a href="https://github.com/yunusayyldz/yunusayyldz/raw/main/copy_384CE1B2-0889-4824-B5C9-4A2A106C66AB.mov" target="_blank">
-    <img src="https://media.giphy.com/media/XvOxI6L77G2m4/giphy.gif" width="100%" alt="Videoyu İzlemek İçin Tıkla"/>
-  </a>
-  
-  <br>
-  <i>👆 Videoyu izlemek için yukarıdaki resme tıkla 👆</i>
+  <img src="https://media.tenor.com/bK1rcWf4t4AAAAAC/initial-d-ae86.gif" width="100%" alt="Initial D Drift"/>
 
 </div>
 
