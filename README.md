@@ -39,6 +39,6 @@
 
   <br><br>
 
-  <img src="https://media.giphy.com/media/duzpaTbCUy9Vu/giphy.gif" width="100%" alt="Stardew Valley Pixel Art"/>
+  <img src="stardew.gif" width="100%" alt="Stardew Valley"/>
 
 </div>
