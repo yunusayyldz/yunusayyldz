@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9d58&height=250&section=header&text=Yunus%20Ayyıldız&fontSize=70&fontAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Yunus%20Ayyıldız&fontSize=70&fontAlign=50&animation=fadeIn)
 
 <div align="center">
   
@@ -32,5 +32,5 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216658245-873e9334-0338-4b1e-a42d-c200c009f260.gif" width="100%"/>
+  <img src="https://i.pinimg.com/originals/97/7c/02/977c02733c99721656460504011d7606.gif" width="100%" alt="Stardew Valley Pixel Art"/>
 </div>
